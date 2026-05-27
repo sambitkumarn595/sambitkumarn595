@@ -9,10 +9,11 @@ An ambitious **Electrical Engineering Graduate** specializing in industrial auto
 | Category | Specialized Competencies & Tools |
 | :--- | :--- |
 | **Industrial Automation** | **GE Vernova Proficy iFIX v6.5**, **SCADA**, **CODESYS**, **ABB AC500 PLC**, **PLC**,  Mimic Panels, HMI Screen Design |
+| **Industrial Domains** | **Upstream and Downstream Oil and Gas Facility Design**, Thermal Power Generation, Power Plant Operations |
 | **Power Systems Engineering** | Control System, Electrical Machines, Power Electronics, Smart Grid | Switchyard Operations, High-Voltage Equipment Protection, Electrical Maintenance |
 | **Engineering Software** | MATLAB, SIMULINK, Electrical CAD |
 | **Project Management & Quality** | Oracle Primavera P6, Six Sigma Green Belt, Project Charters, Lean Principles |
-| **Thermal & Renewable Energy** | CFBC Boilers, Steam Turbines, Generators, Solar PV Array Modeling |
+| **Thermal & Renewable Energy** | CFBC Boilers, Steam Turbines, Generators, Transformers, Solar PV Array Modeling |
 
 ---
 
